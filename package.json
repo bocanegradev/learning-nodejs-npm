@@ -1,0 +1,17 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "First interaction with nodejs and npm",
+  "main": "httpAndColors.js",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node httpAndColors.js",
+    "scriptDesarrollo": "node index.js"
+  },
+  "author": "bocanegralabs",
+  "license": "ISC"
+}
